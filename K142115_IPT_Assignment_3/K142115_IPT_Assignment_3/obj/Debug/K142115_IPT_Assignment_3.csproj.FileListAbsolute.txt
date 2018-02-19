@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2013\Projects\K142115_IPT_Assignment_3\K142115_IPT_Assignment_3\bin\Debug\K142115_IPT_Assignment_3.exe.config
+c:\Users\Hp\Documents\Visual Studio 2013\Projects\K142115_IPT_Assignment_3\K142115_IPT_Assignment_3\bin\Debug\K142115_IPT_Assignment_3.exe
+c:\Users\Hp\Documents\Visual Studio 2013\Projects\K142115_IPT_Assignment_3\K142115_IPT_Assignment_3\bin\Debug\K142115_IPT_Assignment_3.pdb
+c:\Users\Hp\Documents\Visual Studio 2013\Projects\K142115_IPT_Assignment_3\K142115_IPT_Assignment_3\obj\Debug\K142115_IPT_Assignment_3.csprojResolveAssemblyReference.cache
+c:\Users\Hp\Documents\Visual Studio 2013\Projects\K142115_IPT_Assignment_3\K142115_IPT_Assignment_3\obj\Debug\K142115_IPT_Assignment_3.exe
+c:\Users\Hp\Documents\Visual Studio 2013\Projects\K142115_IPT_Assignment_3\K142115_IPT_Assignment_3\obj\Debug\K142115_IPT_Assignment_3.pdb

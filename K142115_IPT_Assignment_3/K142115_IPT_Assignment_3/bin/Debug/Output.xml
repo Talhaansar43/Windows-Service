@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Results>
+  <TaskRun TaskName="Restore PST File" Type="SecureRestore" Time="2017/11/19 12:49">
+    <TaskResult Result="Task Completed" />
+  </TaskRun>
+  <TaskRun TaskName="Backup PST File" Type="SecureBackup" Time="2017/11/20 09:30">
+    <TaskResult Result="Task Completed" />
+  </TaskRun>
+  <TaskRun TaskName="Backup PST File" Type="SecureBackup" Time="2017/11/20 09:43">
+    <TaskResult Result="Task Completed" />
+  </TaskRun>
+  <TaskRun TaskName="Backup PST File" Type="SecureBackup" Time="2017/11/20 09:48">
+    <TaskResult Result="Task Completed" />
+  </TaskRun>
+</Results>

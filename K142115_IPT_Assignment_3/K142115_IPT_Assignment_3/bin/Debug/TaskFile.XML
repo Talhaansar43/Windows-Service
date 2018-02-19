@@ -1,0 +1,17 @@
+<Tasks>
+	<Task name="Backup PST File" type="SecureBackup">
+		<Occurrence starttime="2017/11/20 09:48" repeat="1m" endtime="2017/11/20 09:49" />
+		<SecureBackup src="TextFile.txt" dest="F:\OutputFolder\" />
+	</Task>
+	<Task name="Restore PST File" type="SecureRestore">
+		<Occurrence starttime="2017/11/20 09:49" repeat="1m" endtime="2017/11/20 09:50" />
+		<SecureBackup src="F:\OutputFolder\" dest="F:\OutputFolder\fileData.txt" />
+	</Task>
+	<Task name="Restore PST File" type="ProcessesRunning">
+		<Occurrence starttime="2017/11/20 09:48" repeat="1m" endtime="2017/11/20 09:49" />
+	</Task>
+	<Task name="9 to 5 Screen grab" type="ScreenGrab">
+		<Occurrence starttime="2017/11/03 09:00" repeat="1h" endtime="2018/01/31 17:00" />
+		<ScreenGrab outputFolder="d:\ScreenGrabs" />
+	</Task>
+</Tasks>
